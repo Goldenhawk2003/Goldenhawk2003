@@ -2,7 +2,7 @@
 
 A motivated computer science student!
 
-- 🌱 I’m currently learning: Java, C
+- 🌱 I’m currently learning in my 3rd year of studies at Wilfrid Laurier University
 - 🎓 Expected graduation: 2025
 
 ## Connect with me:
@@ -13,4 +13,5 @@ A motivated computer science student!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
 <!-- Repeat for other languages and tools -->
