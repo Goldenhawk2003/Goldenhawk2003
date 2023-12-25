@@ -3,11 +3,10 @@
 A motivated computer science student!
 
 - 🌱 I’m currently learning: Java, C
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isaacaddai/)
 - 🎓 Expected graduation: 2025
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaacaddai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ogeil-32723225a/)
 
 ## Languages and Tools:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
