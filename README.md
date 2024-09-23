@@ -2,7 +2,7 @@
 
 A motivated computer science student!
 
-🌱 I’m currently learning in my 3rd year of studies at Wilfrid Laurier University
+🌱 I’m currently learning in my 4th year of studies at Wilfrid Laurier University
 🔍 Actively seeking internship opportunities to apply my skills in real-world projects.
 🌟 Passionate about software development, machine learning, and open-source contribution.
 
